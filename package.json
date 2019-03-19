@@ -42,6 +42,12 @@
   "dependencies": {
     "gulp-cjs": "0.0.2",
     "magiconsole": "0.2.2",
+	"mime": "2.4.0",
+	"minimatch": "3.0.4",
+	"negotiator": "0.6.1",
+	"shell-quote": "1.6.1",
+	"st": "1.2.2",
+	"uglify-js": "3.4.10",
     "ws": "6.2.0",
     "wunderbits.core": "1.1.0",
     "xmlhttprequest": "1.8.0"
